@@ -1,0 +1,9 @@
+(ns protean.sample.helloworld
+  (:require [protean.core.transformation.sim :refer :all]
+            [simlib :as sl]))
+
+{
+  "hello-world" {
+    "/" {:get [#(sl/jsn 200 {:rsp "Hello World"})]}
+  }
+}

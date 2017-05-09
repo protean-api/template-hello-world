@@ -1,0 +1,17 @@
+;; sample Protean codex
+{
+  :includes [ "defaults.edn" ]
+
+  :title "Hello World API Docs"
+  :doc "A minimalist sample API."
+
+  "hello-world" {
+
+    "/" {
+      :get {
+        :doc "Say hello"
+        :rsp {:200 {}}
+      }
+    }
+  }
+}

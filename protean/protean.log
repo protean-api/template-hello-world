@@ -1,0 +1,22 @@
+2017-05-09 20:58:07.214 valisk INFO [protean.server.main:113] - Starting protean - v 0.11.0-pre.6
+2017-05-09 20:58:07.234 valisk INFO [protean.server.main:114] - Codex directory :  .
+2017-05-09 20:58:07.237 valisk INFO [protean.server.main:122] - Codices loaded : ("hello-world")
+2017-05-09 20:58:07.271 valisk INFO [protean.server.main:123] - Sim extensions loaded : ("hello-world")
+2017-05-09 20:58:07.372 valisk INFO [protean.server.main:124] - Public static resources can be served from : public
+2017-05-09 20:58:07.441 valisk INFO [protean.server.main:126] - Protean has started 
+Sim Port:   3000 Max threads: 1000
+Admin Port: 3001 Max threads: 50
+2017-05-09 20:58:32.483 valisk INFO [protean.server.pipeline:37] - method:  :get , uri:  /hello-world , query-params:  {}
+2017-05-09 20:58:32.499 valisk INFO [protean.core.transformation.sim:376] - sim cfg :  nil
+2017-05-09 20:58:48.031 valisk INFO [protean.server.pipeline:37] - method:  :get , uri:  /hello-world , query-params:  {}
+2017-05-09 20:58:48.033 valisk INFO [protean.core.transformation.sim:376] - sim cfg :  nil
+2017-05-09 21:01:12.572 valisk INFO [protean.server.main:113] - Starting protean - v 0.11.0-pre.6
+2017-05-09 21:01:12.586 valisk INFO [protean.server.main:114] - Codex directory :  .
+2017-05-09 21:01:12.590 valisk INFO [protean.server.main:122] - Codices loaded : ("hello-world")
+2017-05-09 21:01:12.606 valisk INFO [protean.server.main:123] - Sim extensions loaded : ("hello-world")
+2017-05-09 21:01:12.688 valisk INFO [protean.server.main:124] - Public static resources can be served from : public
+2017-05-09 21:01:12.749 valisk INFO [protean.server.main:126] - Protean has started 
+Sim Port:   3000 Max threads: 1000
+Admin Port: 3001 Max threads: 50
+2017-05-09 21:01:14.352 valisk INFO [protean.server.pipeline:37] - method:  :get , uri:  /hello-world , query-params:  {}
+2017-05-09 21:01:14.369 valisk INFO [protean.core.transformation.sim:376] - sim cfg :  nil
