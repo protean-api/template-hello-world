@@ -35,3 +35,7 @@ docker run -it protean-hello-world /bin/bash
 ## Accessing your API
 
 curl -i http://localhost:3000/hello-world or visit the same URI in a browser.
+
+## Accessing the API Documentation
+
+Visit http://localhost:3001/public/api-docs/index.html in a browser.
